@@ -1,11 +1,20 @@
-# What is it?
+# MK popular wordpress posts by view
+====================================
 
-It is simple Wordpress widget to show popular posts by view. It counts every number that single post is view-ed and save for each post custom value 'count'. You can alter code to have _code to hide it from admin panel.
+## What is it?
 
-## How to instal
+It's a simple Wordpress widget to show popular posts by view count. It adds a number to every singe post when viewed and save custom value 'count' to it's meta table. You can alter code to have '_code' and hide it from admin panel ... but this way you can alter results :)
 
-- copy to wp-plugins dir
-- activate
-- use the widget for some sidebar
+## How to install
+
+- copy to your wp-content/plugins dir
+- activate it
+- use the widget to add it in some sidebar
+
+
+## Plans to add
+
+- globar reset counter
+
 
 cheers, k.
