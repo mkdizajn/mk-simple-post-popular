@@ -16,5 +16,4 @@ It's a simple Wordpress widget to show popular posts by view count. It adds a nu
 
 - globar reset counter
 
-
 cheers, k.
